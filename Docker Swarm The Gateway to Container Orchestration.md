@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Docker Swarm is a powerful tool that enables high school students and college freshmen to dive into the world of container orchestration. If you've already got a grasp on Docker and are ready to take your containerization skills to the next level, Docker Swarm is an excellent starting point. In this blog post, we'll explore what Docker Swarm is, how to use it, how to create your first Swarm, essential concepts, and some practical tips.
+Docker Swarm is a powerful tool that enables user to dive into the world of container orchestration. If you've already got a grasp on Docker and are ready to take your containerization skills to the next level, Docker Swarm is an excellent starting point. Here, we'll explore what Docker Swarm is, how to use it, how to create your first Swarm, essential concepts, and some practical tips.
 
 ## **What is Docker Swarm?**
 
